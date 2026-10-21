@@ -1,0 +1,15 @@
+{
+  "version": "0.7.0",
+  "notes": "Four kinds of document (Notes, Pages, Slides, Sheets), 100+ templates, split view, spelling and grammar with dotted marks, accessibility settings, Open with, and the new documentation site.",
+  "pub_date": "2026-10-21T23:42:17.551Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ3ViQ21CV3AwUUdHUUx3OEw2K3NwelZqVTY1MEdjQlRQMEovK3NnRHhwMVprNFpTUEYrVDNDcnJEVWpoNklUTnMvYllaS0t1eUhjUytXQmpFVWpCZURuQUF6QVlKZ3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjI2MDQyCWZpbGU6RG9jZW8uYXBwLnRhci5negpsK0ZaTkhBaHdmWU1EQXl3dkp2ZzVucFRldThndE1GOXR1NGtqN2hUZXJiT0RSSWR0OGFOWG5rOUlIenUyOHUrRkh6RHp0VUJSVWNFdlFtaWc1SE5Edz09Cg==",
+      "url": "https://github.com/MangoDman/d0ceo-release/releases/download/v0.7.0/Doceo_0.7.0_aarch64.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ3ViQ21CV3AwUUZhZ2JwSHBjT0JiblhVTTBlbGVmMHdVUjIxV3hOQ1RhVEs0TnFYUk1EeXRDQ2tCUnNvVjhnN2Y0WmRaQXlBcG0vUlBhdCsxTUN5UzhGN0UvTk1mQlF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjI2MTAxCWZpbGU6RG9jZW8uYXBwLnRhci5negozWEptdEFNS01iTWdka05CTTBQOCsrbFlGTFlHbUF1QVlJcVVwS0hZZjZLajdhZ2xxcVkybWl0YzkzeDhZWTdhcHJVQi9vZjZrVU5sVEdqeEVOT3VDZz09Cg==",
+      "url": "https://github.com/MangoDman/d0ceo-release/releases/download/v0.7.0/Doceo_0.7.0_x64.app.tar.gz"
+    }
+  }
+}

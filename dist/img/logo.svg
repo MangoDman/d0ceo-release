@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-20 -20 640 650" width="640" height="650" role="img" aria-label="Doceo">
+  <defs>
+    <linearGradient id="gG" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#6ED6BC"/><stop offset="1" stop-color="#3DAA91"/></linearGradient>
+    <linearGradient id="gW" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#E4EAEC"/></linearGradient>
+    <linearGradient id="gB" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2B2C31"/><stop offset="0.5" stop-color="#0C0C0E"/><stop offset="1" stop-color="#000000"/></linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF" stop-opacity=".30"/><stop offset=".42" stop-color="#FFFFFF" stop-opacity=".07"/><stop offset=".5" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient>
+    <linearGradient id="rim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF" stop-opacity=".55"/><stop offset=".22" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient>
+    <filter id="sd" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="7" stdDeviation="8" flood-color="#000" flood-opacity=".28"/></filter>
+  </defs>
+  <g><rect x="0" y="0" width="600" height="420" rx="80" fill="url(#gG)"/></g>
+    <rect x="0" y="0" width="600" height="420" rx="80" fill="url(#sheen)" opacity="0.9"/>
+    <rect x="1.5" y="1.5" width="597" height="417" rx="78.5" fill="none" stroke="url(#rim)" stroke-width="3" opacity="0.9"/>
+    <g filter="url(#sd)"><rect x="0" y="110" width="600" height="400" rx="80" fill="url(#gW)"/></g>
+    <rect x="0" y="110" width="600" height="400" rx="80" fill="url(#sheen)" opacity="0.55"/>
+    <rect x="1.5" y="111.5" width="597" height="397" rx="78.5" fill="none" stroke="url(#rim)" stroke-width="3" opacity="0.55"/>
+    <g filter="url(#sd)"><rect x="0" y="241" width="600" height="359" rx="80" fill="url(#gB)"/></g>
+    <rect x="0" y="241" width="600" height="359" rx="80" fill="url(#sheen)" opacity="0.85"/>
+    <rect x="1.5" y="242.5" width="597" height="356" rx="78.5" fill="none" stroke="url(#rim)" stroke-width="3" opacity="0.85"/>
+</svg>
